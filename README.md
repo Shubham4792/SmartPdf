@@ -4,6 +4,7 @@ Functionalities include - <br/>
 -- Cherry picking specific pages from multiple pdfs and combine them into one<br/>
 -- Converting doc/docx format files to pdf<br/>
 -- Adding watermarks to selected or all pages of pdf
+-- Adding adjust orientation feature for each page of the pdf (TODO)
 
 APIs built
 
